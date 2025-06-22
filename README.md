@@ -59,7 +59,6 @@ python video_encoder.py
 ## Files
 
 - `video_encoder.py`: Basic version
-- `video_encoder_fast.py`: Enhanced version with progress display and optimizations
 
 ## Author
 
